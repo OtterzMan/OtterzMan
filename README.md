@@ -10,6 +10,7 @@
 ### Connect with me:
 
 Discord = Øtterz#2001
+<br />
 Telegram = @NotOtterz
 
 ### Languages And Tools I Know:
