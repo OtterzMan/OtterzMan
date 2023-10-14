@@ -3,8 +3,8 @@
 ## I'm a Student, Dev and a very cool guy!!
 
 - 🌱 I’m currently learning Javascript And C#
-- 🥓 I’m looking at making various everyday tools For everyone to use !
-- 🥅 2022 Goals: Stop Putting Capitals At The Start Of Every Word
+- 🥓 I just sort of make whatever and then upload it
+- 🥅 2023 Goals: Stop Putting Capitals At The Start Of Every Word
 - ⚡ Fun fact: I love to game and play drums
 - 🐱‍👤 I'm also currently learning system exploitations and pentesting !
 
